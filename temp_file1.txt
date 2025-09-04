@@ -3,3 +3,5 @@ This is first crested in vs code after git init and then i will do git commit me
 addded a new branch.
 
 this is edited finally in merge editor by vs code
+
+hello this may raise or dont rAISE THE ERRORS
